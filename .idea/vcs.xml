@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Alsalah" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Compass" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dandorma/dandorma" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dandorma/dandorma_management" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dandorma/dondorma_seller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EspressoUITest-Examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FAR_App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hayah" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hubbox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVM-Retrofit-Coroutine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NotesApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TPOSSupplier" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UnitTestingYT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Wolf/wolf_customer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Wolf/wolf_store" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/alayna_delivery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compass-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hayahDelivery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sho2ony" vcs="Git" />
+  </component>
+</project>
